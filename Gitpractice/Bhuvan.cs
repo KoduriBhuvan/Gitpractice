@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Gitpractice
 {
-    internal class Bhuvan
+    public class Bhuvan
     {
+        public int Name;
+        public int age;
     }
 }
