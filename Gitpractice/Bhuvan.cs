@@ -9,7 +9,8 @@ namespace Gitpractice
     public class Bhuvan
     {
         public int Name;
-        public int age;
+        public int Age;
+        public string City;
 
         public void Greet()
         {
