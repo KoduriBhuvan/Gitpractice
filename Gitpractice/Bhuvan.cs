@@ -10,5 +10,10 @@ namespace Gitpractice
     {
         public int Name;
         public int age;
+
+        public void Greet()
+        {
+            Console.WriteLine("I am Bhuvan");
+        }
     }
 }
